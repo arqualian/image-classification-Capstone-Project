@@ -8,4 +8,4 @@ Ghora Laziola - Universitas Maritim Raja Ali Haji.
 - Library              : Keras 
 ------------------------------------------------------------------------------
 About : 
-- The Restaurant Image Classification project, developed as a capstone project for Infinite Learning Indonesia, creates a user-friendly system using Python and Keras. It uses the VGG-16 architecture to classify restaurant images into categories like food, decor, ambiance, and menu items. The project simplifies image analysis for restaurant owners and marketers, helping them manage visual content and understand customer preferences better.
+- The Restaurant Image Classification project, developed as a capstone project for Infinite Learning Indonesia, focuses on classifying images in and around restaurants. By utilizing the VGG-16 architecture, the project simplifies image analysis for restaurant owners and marketers, aiding them in managing visual content and understanding customer preferences. This classification capability is crucial for the effective functioning of waiter robots in restaurant environments.
