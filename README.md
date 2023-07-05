@@ -9,3 +9,8 @@ Ghora Laziola - Universitas Maritim Raja Ali Haji.
 ------------------------------------------------------------------------------
 About : 
 - The Restaurant Image Classification project, developed as a capstone project for Infinite Learning Indonesia, focuses on classifying images in and around restaurants. By utilizing the VGG-16 architecture, the project simplifies image analysis for restaurant owners and marketers, aiding them in managing visual content and understanding customer preferences. This classification capability is crucial for the effective functioning of waiter robots in restaurant environments.
+
+judul 1 | Judul 2
+--------|---------
+aaaa     | bbbbbb
+aaaa      | bbbbbbbb
