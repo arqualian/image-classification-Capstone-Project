@@ -1,3 +1,5 @@
+![Poster Kalsifikasi Gambar Resto](https://github.com/arqualian/image-classification-Capstone-Project/assets/60522938/ac1e3405-5575-46bb-b3c9-15adf47d8a35)
+
 # Klasifikasi Gambar Menggunakan EfficientNetV2M untuk Restoran
 
 Projek Capstone Merdeka Belajar Kampus Merdeka (MBKM) Infinite Learning Indonesia
