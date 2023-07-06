@@ -53,6 +53,6 @@ Pemanggang Roti | Spageti | Kipas | Piring
 Lampu Meja | nanas | botol bir | Menu 
 
 untuk daftar lengkap, silahkan lihat : 
-File Json 1000 label : [Klik disini](https://github.com/anishathalye/imagenet-simple-labels/blob/1a7c0a962e632880e85d48329b06d7848ac20e6d/imagenet-simple-labels.json) 
-file saran lengkap   : [Klik Disini](https://docs.google.com/spreadsheets/d/1XSIWMUKxZBHHYmblfaIZgHq1BGSRMYoC/edit?usp=sharing&ouid=109385220482846132254&rtpof=true&sd=true)
+- File Json 1000 label : [Klik disini](https://github.com/anishathalye/imagenet-simple-labels/blob/1a7c0a962e632880e85d48329b06d7848ac20e6d/imagenet-simple-labels.json) 
+- file saran lengkap   : [Klik Disini](https://docs.google.com/spreadsheets/d/1XSIWMUKxZBHHYmblfaIZgHq1BGSRMYoC/edit?usp=sharing&ouid=109385220482846132254&rtpof=true&sd=true)
 
