@@ -29,5 +29,26 @@ Dalam notebook ini kita akan :
 3. Menggunakan watson cloud storage
 4. Menjalankan pemrograman yang terdapat di [link](https://github.com/arqualian/image-classification-Capstone-Project/blob/main/Image_Clasification.ipynb)
 
+# Batasan 
+Dalam projek ini memiliki batasan yaitu : 
+1. Tingkat akurasi mencapai 73%
+2. Gambar harus sesuai format (copy image address)
+3. Link harus di letakan secara manual kedalam kodingan
+4. Tidak ada batasan dalam jenis gambar (bisa diluar konteks restauran). Namun dianjurkan yang sesuai dengan projek
+
+--------------------------------------------------------------------------------------------------------------
+# Saran Objek 
+Perabotan | Makanan / Minuman | Alat-alat | Lainnya 
+----------|-----------|---------|----------|------
+Kuali | Es Krim | Celemek | Jam Analog 
+Bufet | Baguette | Pembuka Kaleng | Balon 
+Meja | Pretzel | Tutup Botol | Rak Buku 
+Meja Makan | Burger Keju | Sapu | Piano 
+Kursi Lipat | Hot Dog | Kaset | Payung 
+Penggorengan | Pizza | Telfon genggam | Kendi Wiski 
+Kulkas | Burrito | Gesper | Botol Anggur 
+Keranjang | Jamur | Botol Air | Sendok 
+Pemanggang Roti | Spageti | Kipas | Piring 
+Lampu Meja | nanas | botol bir | Menu 
 
 
