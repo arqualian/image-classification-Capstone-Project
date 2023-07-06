@@ -39,8 +39,8 @@ Dalam projek ini memiliki batasan yaitu :
 --------------------------------------------------------------------------------------------------------------
 # Saran Objek 
 Perabotan | Makanan / Minuman | Alat-alat | Lainnya 
-----------|-----------|---------|----------|------
-Kuali | Es Krim | Celemek | Jam Analog 
+----------|-------------------|-----------|----------
+Kuali     | Es Krim           | Celemek   | Jam Analog  
 Bufet | Baguette | Pembuka Kaleng | Balon 
 Meja | Pretzel | Tutup Botol | Rak Buku 
 Meja Makan | Burger Keju | Sapu | Piano 
