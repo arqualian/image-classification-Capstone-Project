@@ -20,7 +20,7 @@ Dalam notebook ini kita akan :
 - Menampilkan hasil prediksi
 
 # Alur 
-![Diagram_-removebg-preview](https://github.com/arqualian/image-classification-Capstone-Project/assets/60522938/6262306d-3a86-4b75-a6a5-b3d82c831741)
+![Diagram ](https://github.com/arqualian/image-classification-Capstone-Project/assets/60522938/6ac9d586-95fd-4900-b3c4-ab0fce5672d8)
 
 1. Masuk ke akun IBM Cloud
 2. Menggunakan watson studio
