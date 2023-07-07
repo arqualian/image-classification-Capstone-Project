@@ -7,13 +7,13 @@ Projek Capstone Merdeka Belajar Kampus Merdeka (MBKM) Infinite Learning Indonesi
 # Informasi 
 Ghora Laziola - Universitas Maritim Raja Ali Haji.
 
-- Project Name         : Image Classification using trained VGG-16 for Restaurant
-- Programing Language  : Python 
-- Pattern              : [IBM ASL](https://github.com/IBM/ASL-Pytorch) (American Sign Language) alphabet classifier using pytorch and GPU environments on Watson Studio
-- Ibm Service          : Watson Studio, Watson Cloud Service
-- Early Build          : Visual Studio Code + Jupiter Extention,
-- Library              : Keras
-- Model                : EfficientNetV2M
+Project Name         | Image Classification using trained VGG-16 for Restaurant
+Programing Language  |Python 
+Pattern              | [IBM ASL](https://github.com/IBM/ASL-Pytorch) (American Sign Language) alphabet classifier using pytorch and GPU environments on Watson Studio
+Ibm Service          | Watson Studio, Watson Cloud Service
+Early Build          | Visual Studio Code + Jupiter Extention,
+Library              | Keras
+Model                | EfficientNetV2M
 ------------------------------------------------------------------------------
 # Rangkuman 
 Dalam project ini, kita akan menggunakan pustaka Keras untuk mengklasifikasikan gambar-gambar yang dipilih secara acak dari internet. Keras menyederhanakan proses perancangan dan pelatihan model deep learning dengan menyediakan antarmuka tingkat tinggi. Gambar-gambar dari internet akan diambil menggunakan link URL dan diunduh oleh program ini. kita akan menerapkan metode transfer learning. Transfer learning adalah teknik yang memanfaatkan pengetahuan yang diperoleh dari model yang sudah dilatih sebelumnya pada tugas sebelumnya untuk mengklasifikasikan gambar-gambar baru. Pendekatan ini membantu mengurangi waktu dan sumber daya yang dibutuhkan untuk melatih model dari awal. Kita akan menggunakan model EfficientNetV2M yang sudah dilatih sebelumnya untuk tujuan ini.
