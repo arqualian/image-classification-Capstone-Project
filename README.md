@@ -6,14 +6,15 @@ Projek Capstone Merdeka Belajar Kampus Merdeka (MBKM) Infinite Learning Indonesi
 ------------------------------------------------------------------------------
 # Informasi 
 Ghora Laziola - Universitas Maritim Raja Ali Haji.
---------------------|------------------------------
-Project Name         | Image Classification using trained VGG-16 for Restaurant
-Programing Language  |Python 
-Pattern              | [IBM ASL](https://github.com/IBM/ASL-Pytorch) (American Sign Language) alphabet classifier using pytorch and GPU environments on Watson Studio
-Ibm Service          | Watson Studio, Watson Cloud Service
-Early Build          | Visual Studio Code + Jupiter Extention,
-Library              | Keras
-Model                | EfficientNetV2M
+
+|--------------------|------------------------------|
+| Project Name         | Image Classification using trained VGG-16 for Restaurant |
+| Programing Language  |Python |
+| Pattern              | [IBM ASL](https://github.com/IBM/ASL-Pytorch) (American Sign Language) alphabet classifier using pytorch and GPU environments on Watson Studio |
+| Ibm Service          | Watson Studio, Watson Cloud Service |
+| Early Build          | Visual Studio Code + Jupiter Extention |
+| Library              | Keras |
+| Model                | EfficientNetV2M |
 
 ------------------------------------------------------------------------------
 # Rangkuman 
