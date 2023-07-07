@@ -3,12 +3,15 @@
 # Klasifikasi Gambar Menggunakan EfficientNetV2M untuk Restoran
 
 Projek Capstone Merdeka Belajar Kampus Merdeka (MBKM) Infinite Learning Indonesia
+
 ------------------------------------------------------------------------------
 # Informasi 
-Ghora Laziola - Universitas Maritim Raja Ali Haji.
 
 | Point | Informasi | 
 |--------------------|------------------------------|
+| Nama   | Ghora Laziola |
+| Kampus | Universitas Maritim Raja Ali Haji | 
+| Mentor | Agistira Lamunde | 
 | Project Name         | Image Classification using trained VGG-16 for Restaurant |
 | Programing Language  |Python |
 | Pattern              | [IBM ASL](https://github.com/IBM/ASL-Pytorch) (American Sign Language) alphabet classifier using pytorch and GPU environments on Watson Studio |
