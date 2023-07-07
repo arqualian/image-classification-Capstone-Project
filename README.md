@@ -67,7 +67,7 @@ untuk daftar lengkap, silahkan lihat :
 - File Json 1000 label : [Klik disini](https://github.com/anishathalye/imagenet-simple-labels/blob/1a7c0a962e632880e85d48329b06d7848ac20e6d/imagenet-simple-labels.json) 
 - file saran lengkap   : [Klik Disini](https://docs.google.com/spreadsheets/d/1XSIWMUKxZBHHYmblfaIZgHq1BGSRMYoC/edit?usp=sharing&ouid=109385220482846132254&rtpof=true&sd=true)
 
-# Pemrosesan 
+# Pemrosesan dan hasil prediksi 
 
 ## Gambar yang di unduh dari URL 
 <img width="758" alt="image" src="https://github.com/arqualian/image-classification-Capstone-Project/assets/60522938/ab8a7c17-5f72-4713-b5d7-276b499e7d54">
