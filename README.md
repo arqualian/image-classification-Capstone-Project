@@ -7,6 +7,7 @@ Projek Capstone Merdeka Belajar Kampus Merdeka (MBKM) Infinite Learning Indonesi
 # Informasi 
 Ghora Laziola - Universitas Maritim Raja Ali Haji.
 
+| Point | Informasi | 
 |--------------------|------------------------------|
 | Project Name         | Image Classification using trained VGG-16 for Restaurant |
 | Programing Language  |Python |
