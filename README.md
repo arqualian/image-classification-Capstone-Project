@@ -18,7 +18,7 @@ Projek Capstone Merdeka Belajar Kampus Merdeka (MBKM) Infinite Learning Indonesi
 | Ibm Service          | Watson Studio, Watson Cloud Service |
 | Early Build          | Visual Studio Code + Jupiter Extention |
 | Library              | Keras |
-| Model                | EfficientNetV2M |
+| Model                | EfficientNetV2M, VGG 16 |
 
 ------------------------------------------------------------------------------
 # Rangkuman 
