@@ -70,10 +70,12 @@ untuk daftar lengkap, silahkan lihat :
 # Pemrosesan 
 
 ## Gambar yang di unduh dari URL 
-<img width="389" alt="image" src="https://github.com/arqualian/image-classification-Capstone-Project/assets/60522938/e7399b76-89d1-4cff-8b8c-3466ea5339f6">
+<img width="758" alt="image" src="https://github.com/arqualian/image-classification-Capstone-Project/assets/60522938/ab8a7c17-5f72-4713-b5d7-276b499e7d54">
+
 
 ## Gambar dengan label hasil prediksi
-<img width="383" alt="image" src="https://github.com/arqualian/image-classification-Capstone-Project/assets/60522938/89f6c96c-77a6-46a2-b534-bd0f32208edf">
+<img width="658" alt="image" src="https://github.com/arqualian/image-classification-Capstone-Project/assets/60522938/17e43666-c463-43b2-b3ce-12083dc05e8f">
+
 
 
 
