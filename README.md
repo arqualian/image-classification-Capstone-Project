@@ -20,7 +20,7 @@ Projek Capstone Merdeka Belajar Kampus Merdeka (MBKM) Infinite Learning Indonesi
 | Library              | Keras |
 | Model                | EfficientNetV2M, VGG 16 |
 | Notebook             | 2 vCPU and 8 GB RAM 
-| Price                | 1 CU/H
+| Price                | 1 Capacity Unit Hours |
 
 ------------------------------------------------------------------------------
 # Rangkuman 
