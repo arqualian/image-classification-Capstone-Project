@@ -15,10 +15,12 @@ Projek Capstone Merdeka Belajar Kampus Merdeka (MBKM) Infinite Learning Indonesi
 | Project Name         | Image Classification using trained VGG-16 for Restaurant |
 | Programing Language  |Python |
 | Pattern              | [IBM ASL](https://github.com/IBM/ASL-Pytorch) (American Sign Language) alphabet classifier using pytorch and GPU environments on Watson Studio |
-| Ibm Service          | Watson Studio, Watson Cloud Service |
+| Ibm Service          | Watson Studio, Watson Cloud Object Storage |
 | Early Build          | Visual Studio Code + Jupiter Extention |
 | Library              | Keras |
 | Model                | EfficientNetV2M, VGG 16 |
+| Notebook             | 2 vCPU and 8 GB RAM 
+| Price                | 1 CU/H
 
 ------------------------------------------------------------------------------
 # Rangkuman 
